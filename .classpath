@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/jcommon-1.0.23/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/bcrypt-0.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/jBCrypt-0.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/twilio-8.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/twilio-8.4.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/jcommon-1.0.23/jcommon-xml-1.0.23.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/jcommon-1.0.23/lib/junit.jar"/>
+	<classpathentry kind="lib" path="E:/cours/SLAM4/Vinci/lib/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
